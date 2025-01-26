@@ -30,10 +30,7 @@ Relay Module: For controlling the water pump based on moisture readings and rain
 LCD Display (16x2 I2C): For displaying real-time data from the sensors.
 
 ### **System Diagram**:  
-![System Diagram](https://via.placeholder.com/800x400.png?text=Insert+System+Diagram)  
-_(Insert your system's flowchart or architecture here)_  
-
----
+![System Diagram](schematic)  
 
 
 ### **Prerequisites**:
