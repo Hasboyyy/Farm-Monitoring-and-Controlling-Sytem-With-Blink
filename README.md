@@ -1,4 +1,4 @@
-# Farm-Monitoring-and-Controlling-Sytem-Using-Blink
+# Farm-Monitoring-and-Controlling-Sytem-With-Blynk
 
 This project is a part of the Community Service Program I participated in while I was in college. It is a simple device that can perform real-time monitoring and control through the Blynk platform, specifically designed for agricultural applications. The primary goal of this project was to provide an efficient solution for monitoring soil moisture levels, controlling water pumps, detecting rainfall, and displaying real-time data, thereby optimizing irrigation practices for local farmers.
 
