@@ -22,13 +22,6 @@ This data is sent to the Blynk application, allowing farmers to monitor soil and
 
 - Implementation
 The project was implemented using an ESP8266 microcontroller, which provides built-in Wi-Fi capabilities for seamless connectivity to the Blynk platform. The sensors and components used in the project include:
-
-Soil Moisture Sensor: For measuring the moisture content in the soil.
-DHT11 Sensor: For measuring temperature and humidity.
-Raindrop Sensor: For detecting rainfall.
-Relay Module: For controlling the water pump based on moisture readings and rainfall detection.
-LCD Display (16x2 I2C): For displaying real-time data from the sensors.
-
 ### **System Diagram**:  
 
 <p align="center">
